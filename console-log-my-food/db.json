@@ -1,0 +1,33 @@
+{
+    "food":[
+        {
+            "id":1,
+            "name": "Apple",
+            "calories":88,
+            "serving_sie":6,
+            "serving_size_units":"oz"
+        },
+        {
+            "id":2,
+            "name": "Banana",
+            "calories":100,
+            "serving_sie":10,
+            "serving_size_units":"pc"
+        },
+        {
+            "id":3,
+            "name": "Orange",
+            "calories":12,
+            "serving_sie":4,
+            "serving_size_units":"vc"
+        }
+
+    ],
+    "users":[
+        {
+            "id":1,
+            "firstName":"arati",
+            "lastName":"vaje"
+        }
+    ]
+}
